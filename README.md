@@ -15,3 +15,20 @@ What I used for this:<br>
 <B>Software</B><br>
 •	Raspbian Buster (w/desktop and software) (Kernal version 4.19)<br>
 •	Etcher v1.5.63<br>
+<B>Prerequisites</B><br>
+•	Download and install current version of Etcher for your OS<br>
+o	(https://www.balena.io/etcher/)<br>
+•	Download current version of Raspbian<br>
+o	(https://www.raspberrypi.org/downloads/raspbian/)<br>
+•	Flash the micro SD card with the Raspbian image (use the instructions on the Etcher site)<br>
+•	Flash the USB3 drive with the same Raspbian image<br>
+<B>Make changes to the boot config file</B><br>
+•	Mount the micro SD card<br>
+•	Open the micro SD card file directory<br>
+•	Find the config file and open with a text editor<br>
+•	Scroll to the bottom of the file and add the following line to the config file<br>
+```
+program_usb_boot_mode=1
+```
+<B>Installing Raspbian on the Raspberry Pi</B><br>
+•	Once the micro SD card and USB3 drive are ready plug them into the Raspberry Pi<br>
