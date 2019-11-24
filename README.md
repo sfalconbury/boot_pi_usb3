@@ -10,6 +10,7 @@ What I used for this:<br>
 •	Raspberry Pi 4 4GB Model B with 1.5GHz 64-bit quad-core ARMv8 CPU (4GB RAM)</B><br>
 •	3.5A USB-C Raspberry Pi 4 Power Supply with Noise Filter<br>
 •	32GB Samsung EVO+ Micro SD Card (Class 10)<br>
+•	SanDisk 32G USB3 Flash Drive 
 •	Micro HDMI to HDMI Cable<br>
 •	USB MicroSD Card Reader<br>
 <B>Software</B><br>
