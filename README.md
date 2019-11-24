@@ -32,3 +32,8 @@ program_usb_boot_mode=1
 ```
 <B>Installing Raspbian on the Raspberry Pi</B><br>
 •	Once the micro SD card and USB3 drive are ready plug them into the Raspberry Pi<br>
+•	Power the Raspberry Pi<br>
+•	Once the Raspberry Pi has booted to the “Welome” screen stop! There is no need to go any further or configure anything    yet.<br>
+•	Shutdown the Raspberry Pi<br>
+•	Remove power<br>
+•	Remove the micro SD card but do not remove the USB3 drive<br>
